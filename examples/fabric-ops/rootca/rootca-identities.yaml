@@ -38,6 +38,9 @@ identities:
   - identity_name: ica-org2
     identity_secret: icaorg2SamplePassword
     identity_type: ica
+  - identity_name: ica-org3
+    identity_secret: icaorg3SamplePassword
+    identity_type: ica
 
 ttlSecondsAfterFinished: "100"
 retry_seconds: 60
